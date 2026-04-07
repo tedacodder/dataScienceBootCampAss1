@@ -65,6 +65,7 @@ Practiced Python functions, loops, and conditionals
 Learned user input validation and error handling
 Implemented sequence generation and prime number logic
 Built a modular CLI application
+
 👤 Author
 
 tedacodder
