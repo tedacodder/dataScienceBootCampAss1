@@ -16,14 +16,14 @@ It includes **one task from each level**, demonstrating Python fundamentals, pro
 Input: 17
 Output: 17 is a prime number
 ```
-###Level 2: Fibonacci Generator
+### Level 2: Fibonacci Generator
 Generates the first n Fibonacci numbers
 Concepts: iteration, list operations, sequence generation
 Example Input/Output:
 Input: 10
 Output: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
 
-###Level 3: CLI Calculator
+### Level 3: CLI Calculator
 Command-line calculator supporting +, -, *, /
 Concepts: modular functions, user input validation
 Example Input/Output:
@@ -31,9 +31,9 @@ Input: 5 + 3
 Output: 8
 
 🛠️ Tech Stack
-Language: Python 3
-IDE: VS Code / Jupyter Notebook / Any Python IDE
-Libraries: Standard Python libraries (no external dependencies)
+ - Language: Python 3
+ - IDE: VS Code / Jupyter Notebook / Any Python IDE
+ - Libraries: Standard Python libraries (no external dependencies)
 
 📂 Project Structure
 ```
@@ -66,8 +66,6 @@ Learned user input validation and error handling
 Implemented sequence generation and prime number logic
 Built a modular CLI application
 
-👤 Author
-
-tedacodder
+👤 Author: tedacodder
 
 GitHub: [tedacodder](https://github.com/tedacodder)
