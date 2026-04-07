@@ -1,4 +1,4 @@
-# 🐍 Python Foundations: Daily Assignment
+# 🐍 datascience Bootcamp Python Foundations: Daily Assignment
 
 ## 📌 Overview
 This repository contains my solutions for the **Python Foundations Daily Assignment**.  
